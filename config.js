@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Bluesky',
+			icon: 'bird',
+			link: 'https://bsky.app',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'FMHY',
+			icon: 'play',
+			link: 'https://fmhy.net',
 		},
 		{
 			id: '5',
@@ -135,46 +135,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'drama',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
+					name: 'Miruo',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Classic',
+					name: 'Mangadex',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Oldies',
+					name: 'YNOProject',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Rock',
+					name: 'xkcd',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'folder',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Arch Wiki',
+					link: 'https://wiki.archlinux.org/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Internet Archive',
+					link: 'https://archive.org',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Nitter',
+					link: 'https://nitter.net',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Safebooru',
+					link: 'https://safebooru.org/',
 				},
 			],
 		},
